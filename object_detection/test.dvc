@@ -1,0 +1,4 @@
+wdir: ..
+outs:
+- etag: fff6e82220c9c753630d91e7ee79b8d1.dir
+  path: s3://banjo-sandbox-intel/data/yolov3_transfer_learning/test-bucket
