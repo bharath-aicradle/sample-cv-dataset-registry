@@ -2,3 +2,5 @@
     s3 = s3cache
 ['remote "s3cache"']
     url = s3://banjo-sandbox-intel/data/yolov3_transfer_learning/test-cache
+['remote "test2"']
+    url = s3://banjo-sandbox-intel/data/yolov3_transfer_learning/test-cache2
